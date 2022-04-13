@@ -6,7 +6,7 @@
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/t94gs9308g1znn9polid91are?si=518444d3810844ac)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslley.rosario07@gmail.com)
 
-<div align="center">
+<div style="display: inline-block">
   <a href="https://github.com/w-rosario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w-rosario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-rosario&layout=compact&langs_count=7&theme=tokyonight"/>
