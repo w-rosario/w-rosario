@@ -25,6 +25,10 @@
 </div>
 <br>
 
+## Sobre mim
+
+Eu me chamo Weslley, tenho 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas, meu objetivo é desenvolver competências em Engenharia de software, Industria 4.0, IoT & Inteligência Artificial, além de outras skills relacionadas à área de gestão de projetos, me preparando para os desafios do futuro.
+
 ## Tecnologias que estou estudando 📚
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
