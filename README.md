@@ -36,4 +36,4 @@
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-##### Acredito que a tecnologia tem o poder de solucionar problemas e tornar a nossa vida e cada vez mais prática e é com essa missão que estou disposto a enfrentar os desafios e me dedicar ao máximo
+##### "Acredito que a tecnologia tem o poder de solucionar problemas e tornar a nossa vida e cada vez mais prática"
