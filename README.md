@@ -8,7 +8,7 @@
 <div style="display: inline-block">
   <a href="https://github.com/w-rosario">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=w-rosario&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-rosario&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-rosario&layout=compact&langs_count=7&theme=neon"/>
 </div>
     
 <div style="display: inline_block"><br>
